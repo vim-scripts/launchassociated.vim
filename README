@@ -1,0 +1,16 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4755
+
+launchassociated.vim
+Launches current file with the associated program.
+
+For example, if you are editing an HTML file, and type the command LaunchAssociated, your default browser will open it.
+
+It can be used on any file type, such as .xml, .html, .java or even .png, anything that is associated with a program.
+
+Tested on Windows 7, but it should work on Mac OS X and most of the POSIX systems. Tests on these (and any other) operating systems is appreciated.
+
+https://github.com/caglartoklu/launchassociated.vim
+
+The development is on Github.
+For documentation, please visit the homepage link.
+Functionality changes will still be reflected to Vim.org page.
