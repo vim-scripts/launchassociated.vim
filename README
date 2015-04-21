@@ -7,8 +7,6 @@ For example, if you are editing an HTML file, and type the command LaunchAssocia
 
 It can be used on any file type, such as .xml, .html, .java or even .png, anything that is associated with a program.
 
-Tested on Windows 7, but it should work on Mac OS X and most of the POSIX systems. Tests on these (and any other) operating systems is appreciated.
-
 https://github.com/caglartoklu/launchassociated.vim
 
 The development is on Github.
